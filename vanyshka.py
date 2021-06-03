@@ -8,7 +8,7 @@ x = 5
 print(x)
 x = "hellow"
 print(x)
-x = 7.9
+x = 7
 type_of_variable = type(x)
 print(type_of_variable)
 x = 10
@@ -26,3 +26,11 @@ number_of_years = 5
 final_sum = credit + credit / 100 * credit_rate * number_of_years
 
 print(final_sum)
+greeting = "hello"
+first_name = "jack"
+last_namen = "white"
+exclamation_sign = "!"
+white_space = ""
+print(greeting + first_name + " " + last_namen + white_space)
+long_strind = 'this is the long string'
+print(long_strind)
