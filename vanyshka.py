@@ -29,8 +29,9 @@ print(final_sum)
 greeting = "hello"
 first_name = "jack"
 last_namen = "white"
-exclamation_sign = "!"
+exclamation_sign ="!"           
 white_space = ""
-print(greeting + first_name + " " + last_namen + white_space)
+whole_sentence = greeting + first_name + " "  + last_namen + white_space
+print(whole_sentence)
 long_strind = 'this is the long string'
 print(long_strind)
