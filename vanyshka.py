@@ -35,3 +35,10 @@ whole_sentence = greeting + first_name + " "  + last_namen + white_space
 print(whole_sentence)
 long_strind = 'this is the long string'
 print(long_strind)
+
+
+
+
+some_string = "I'm a programmer"
+print(some_string)
+ 
